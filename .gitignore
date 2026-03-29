@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+backend/projectmanage.db
+backend/projectmanage.db-shm
+backend/projectmanage.db-wal
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+
+# Claude Code（個人環境の権限設定）
+.claude/
+
+# OS
+.DS_Store
